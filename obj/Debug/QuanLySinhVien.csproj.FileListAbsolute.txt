@@ -1,0 +1,16 @@
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.Khoa.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.ThemSuaKhoa.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.TrangChu.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.GiangVien.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.ThemSuaGiangVien.resources
+D:\User\workspace\Csharp\BaiTapLon\QuanLySinhVien\obj\Debug\QuanLySinhVien.GUI.Lop.resources
